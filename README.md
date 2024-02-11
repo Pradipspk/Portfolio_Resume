@@ -3,7 +3,7 @@
 # Portfolio Website
 
 ## Description
-Welcome to my Portfolio Website! This website showcases my projects, skills, and experiences as a web developer. I have designed this site to provide visitors with a glimpse into my work and abilities. Feel free to explore the various sections and get in touch if you have any inquiries or collaboration opportunities.
+Welcome to my Portfolio Website! This website showcases my projects, skills, and experiences as a Computer Engineer. I have designed this site to provide visitors with a glimpse into my work and abilities. Feel free to explore the various sections and get in touch if you have any inquiries or collaboration opportunities.
 
 ## Features
 - **Projects:** Browse through a collection of my featured projects with descriptions and links to live demos or repositories.
