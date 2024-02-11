@@ -1,5 +1,5 @@
 {
-  "name": "devportfolio-template",
+  "name": "Pr.Deep-template",
   "version": "0.0.2",
   "description": "",
   "main": "js/scripts.js",
@@ -14,7 +14,7 @@
     "coding",
     "dev"
   ],
-  "author": "Sunil Ranabhat",
+  "author": "Pradip Sapkota",
   "license": "MIT",
   "devDependencies": {
     "gulp-wait": "0.0.2"

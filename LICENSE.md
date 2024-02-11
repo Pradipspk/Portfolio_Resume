@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Sunil Ranabhat. All rights reserved.
+Copyright (c) 2024 Pradip Sapkota. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
